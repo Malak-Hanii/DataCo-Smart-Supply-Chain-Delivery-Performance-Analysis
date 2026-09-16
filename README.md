@@ -50,6 +50,8 @@ The result is a clean, analysis-ready dataset used to build the Power BI dashboa
 
 ## Dashboard (`DataCO.pbix`)
 
+![Supply Chain Dashboard](Images/Dashboard.png)
+
 Built in Power BI, the dashboard includes:
 - Late delivery rate by shipping mode
 - Total orders & late delivery rate by country (map)
